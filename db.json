@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "T1",
+      "day": "Monday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "T2",
+      "day": "Tuesday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "T4",
+      "day": "Thues",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "T7",
+      "day": "Sun",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
